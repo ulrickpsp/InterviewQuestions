@@ -1,7 +1,8 @@
 ## SNAKE MOVEMENT
 
-I found the following question in a recent interview so I'll post the code I used. 
-It's not the exact question but the concept is the same. Feel free to suggest any improvement.
+I found the following question in a recent interview so I'll post the code I used. </br>
+It's not the exact question but the concept is the same. </br>
+Feel free to suggest any improvement.
 
 ```
 
