@@ -17,6 +17,7 @@
 
 #
 # Method used to check if a sequence is in an array
+# O(n) time | O(1) space where n is the length of the array
 #
 def check_sequence_in_array(_array, _sequence):
 
@@ -36,7 +37,7 @@ def check_sequence_in_array(_array, _sequence):
                 seq_elements += 1
                 break
 
-    # Check if lenght of sequence is the same as the number of equal elements found
+    # Check if length of sequence is the same as the number of equal elements found
     return len(sequence) == seq_elements
 
 
